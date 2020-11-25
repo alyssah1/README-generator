@@ -5,9 +5,9 @@ const fs = require("fs");
 //questions for user to answer
 inquirer.prompt([
     { 
-       message: "What is your GitHub username?", 
-       name: "userName",
-       type: "input"
+        message: "What is your GitHub username?", 
+        name: "userName",
+        type: "input"
     },
     {
         message: "What is your email address?",
