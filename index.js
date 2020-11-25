@@ -1,9 +1,10 @@
 // asking for things from user 
 const inquirer = require("inquirer");
 const fs = require("fs");
+const generateMarkdown = require("./generateMarkdown");
 
 //questions for user to answer
-inquirer.prompt([
+const questions = [
     { 
         message: "What is your GitHub username?", 
         name: "userName",
@@ -52,18 +53,21 @@ inquirer.prompt([
         name: "contributeRepo",
         type: "input"
     }
-])
-.then(function(answers) {
-console.log(answers);
-})
+];
+
 
 // function to write README file
-function writeToFile(fileName, data) {
+function writeToFile(data) {
+    fs.writeFile("README.md", generateMarkdown(data), (err) =>
+    err ? console.log(err)
+        : console.log("generating a readme.md file")
+    );
 }
 
 // function to initialize program
 function init() {
-
+    inquirer.prompt(questions)
+    .then(writeToFile)
 }
 
 // function call to initialize program
