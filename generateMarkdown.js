@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
-#Project Name
+# Project Name
 ${data.project}
 
 # Description
@@ -25,19 +25,19 @@ ${data.license}
 # Installation
 ${data.npmInput}
 
-#Run tests
+# Run tests
 ${data.npmTest}
 
-#Using Repo
+# Using Repo
 ${data.useRepo}
 
-#Contributing to repo
+# Contributing to repo
 ${data.contributeRepo}
 
 
-$Demo/Screenshot
+# Demo/Screenshot
 
-#Quesitons
+# Quesitons
 If you have any questions please use the contacts down below:
 
 #### Email address: ${data.email}
