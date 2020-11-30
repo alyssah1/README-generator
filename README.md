@@ -34,7 +34,7 @@ pull request only
 
 
 # Demo/Screenshot
-![link](https://drive.google.com/file/d/1tMOqa3Kujyse7kPn9_LTEmszu_ewJD5p/view)
+![link](https://drive.google.com/file/d/1tMOqa3Kujyse7kPn9_LTEmszu_ewJD5p/preview)
 
 # Quesitons
 If you have any questions please use the contacts down below:
