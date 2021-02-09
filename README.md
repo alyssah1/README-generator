@@ -6,7 +6,7 @@ project 1
 # Description
 shopping dashboard
 
-#Table of Contents
+## Table of Contents
 *[Project Name](#ProjectName)
 *[Project Description](#Description)
 *[License](#License)
