@@ -7,7 +7,7 @@ project 1
 shopping dashboard
 
 ## Table of Contents
-*[Project Name](#ProjectName)
+*[Project Name](#Project-Name)
 
 *[Project Description](#Description)
 
@@ -15,11 +15,11 @@ shopping dashboard
 
 *[Installation](#Installation)
 
-*[Run tests](#Runtests)
+*[Run tests](#Run-tests)
 
-*[Using Repo](#UsingRepo)
+*[Using Repo](#Using-Repo)
 
-*[Contribute to repo](#Contributetorepo)
+*[Contribute to repo](#Contributing-to-repo)
 
 *[Questions](#Questions)
 
@@ -43,7 +43,7 @@ pull request only
 # Demo/Screenshot
 ![link](./video.gif)
 
-# Quesitons
+# Questions
 If you have any questions please use the contacts down below:
 
 #### Email address: alyssa.hollowell2@gmail.com
