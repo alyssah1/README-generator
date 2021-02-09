@@ -1,4 +1,4 @@
-# Readme 
+# Readme Generator 
 
 # Project Name
 project 1
@@ -7,13 +7,13 @@ project 1
 shopping dashboard
 
 #Table of Contents
-*[Project name](#Project name)
+*[Project Name](#ProjectName)
 *[Project Description](#Description)
 *[License](#License)
 *[Installation](#Installation)
-*[Run tests](#Run Tests)
-*[Using Repo](#Using Repo)
-*[Contribute to repo](#Contribute to repo)
+*[Run tests](#Runtests)
+*[Using Repo](#UsingRepo)
+*[Contribute to repo](#Contributetorepo)
 *[Questions](#Questions)
 
 
