@@ -8,12 +8,19 @@ shopping dashboard
 
 ## Table of Contents
 *[Project Name](#ProjectName)
+
 *[Project Description](#Description)
+
 *[License](#License)
+
 *[Installation](#Installation)
+
 *[Run tests](#Runtests)
+
 *[Using Repo](#UsingRepo)
+
 *[Contribute to repo](#Contributetorepo)
+
 *[Questions](#Questions)
 
 
